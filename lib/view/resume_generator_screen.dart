@@ -162,13 +162,11 @@ Keep the resume simple and easy to understand.
          ),
        ),
 
-       child:Expanded(
-       child: SingleChildScrollView(
+       child:SingleChildScrollView(
          child: MarkdownBody(
            data: generatedResume,
          )
 
-       )
        ),
      );
    }
