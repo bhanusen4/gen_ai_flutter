@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657375989572",
+    "project_id": "genaiflutter-24bc9",
+    "storage_bucket": "genaiflutter-24bc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657375989572:android:773a029068da7923ead111",
+        "android_client_info": {
+          "package_name": "com.genai.genaiflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VT00JJpHRANLvz5VE3KPwoTDnoqKBRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
